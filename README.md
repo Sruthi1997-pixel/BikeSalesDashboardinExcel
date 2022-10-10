@@ -15,7 +15,7 @@ If Age >= 54,Old Age
 
 # Questions Answered
 1.Average Income for Females and Males,whether they purchased the bike or not   
-2.Commute distance significance on purchasing a bike.
+2.Commute distance significance on purchasing a bike. 
 3.Significance of Age on purchasing a bike.
 
 # Dashboard 
