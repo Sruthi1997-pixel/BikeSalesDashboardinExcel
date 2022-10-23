@@ -20,4 +20,10 @@ If Age >= 54,Old Age
 # Dashboard 
 ![BikeSalesDB](https://user-images.githubusercontent.com/84526843/194960766-15133524-3e9f-40b0-bf24-576c4fe9ee12.png)
 
+# Learnings
+1.Pivot Tables
+2.Slicers
+
+
+
 
